@@ -7,7 +7,7 @@
 
 <li>Otimize a performance de carregamento das suas páginas</li>
 <li>Entenda os gargalos de performance e como resolvê-los</li>
-<li><li>Veja técnicas para diminuir o tráfego de suas páginas</li>
+<li>Veja técnicas para diminuir o tráfego de suas páginas</li>
 <li>Faça sites com menos requests</li>
 <li>Automatize suas otimizações com gulp</li>
 <li>Analise suas páginas com as ferramentas do mercado</li>
