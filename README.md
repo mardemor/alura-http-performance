@@ -1,4 +1,4 @@
-# Curso Alura HTML e CSS
+# Curso Alura Performance Web
 
 <p>Projeto desenvolvido como parte do curso <b>Performance Web</b> da escola <a href="https://www.alura.com.br/">Alura</a>, ministrado pelo professor Sergio Lopes.</p>
 <p>O curso teve carga horária de 40 horas e está dividido em 2 módulos:</p>
